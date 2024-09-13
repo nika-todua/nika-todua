@@ -1,24 +1,27 @@
-<h1 align="center">Hi 👋, I'm Nika Todua</h1>
-- 👨‍💻 All of my projects are available at <a href="https://nika-todua.netlify.app/">portfolio</a>
+<h1 align="left">I am a Web Developer, C# developer</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://x.com/nika_todua2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nika_todua2" height="30" width="40" /></a>
-  <a href="https://instagram.com/nika_todua9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nika_todua9" height="30" width="40" /></a>
+<p>
+  My name is Nikoloz Todua, a passionate Front End Developer based in Georgia🇬🇪. My expertise lies in coding, open-source technologies, and the web platform.
+  <br><br>
+  Aside from my job, I like to create and contribute to open-source projects. That helps me to learn a ton of new stuff, grow as a developer, and support other open-source projects.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/> </a
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/>
-  </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>
+<h1>Social Media:</h1>
+
+<p>
+  <a href="https://www.instagram.com/nika_todua9/" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" width="40px"></a>   
+  <a href="https://www.facebook.com/nika.todua09" style="text-decoration: none;"><img src="https://camo.githubusercontent.com/d107cafcf21bdbe59508046c560fe9a0d386aca2806c0dd6a0d4459833f74867/68747470733a2f2f692e696d6775722e636f6d2f59626f6b6449302e706e67" width="40px"></a>
 </p>
-<br>
-<img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="programmer animation" width="450">
+
+<h1>My Skills:</h1>
+
+- 💻 Front End Developer
+  - ANGULAR
+  - HTML
+  - CSS
+  - JAVASCRIPT
+* 🗃️ Git
+* 🎨 Photoshop
+* 🌈 Figma
+
+<img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="500" alt="programmer animation gif">
